@@ -1,0 +1,7 @@
+C:\Viren\AddressBookWebApp\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.deps.json
+C:\Viren\AddressBookWebApp\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.dll
+C:\Viren\AddressBookWebApp\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.pdb
+C:\Viren\AddressBookWebApp\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.AssemblyInfoInputs.cache
+C:\Viren\AddressBookWebApp\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.AssemblyInfo.cs
+C:\Viren\AddressBookWebApp\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.dll
+C:\Viren\AddressBookWebApp\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.pdb

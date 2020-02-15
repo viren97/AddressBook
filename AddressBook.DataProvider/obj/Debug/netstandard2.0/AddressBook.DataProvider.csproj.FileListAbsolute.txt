@@ -1,0 +1,11 @@
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\bin\Debug\netstandard2.0\AddressBook.DataProvider.deps.json
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\bin\Debug\netstandard2.0\AddressBook.DataProvider.dll
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\bin\Debug\netstandard2.0\AddressBook.DataProvider.pdb
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\bin\Debug\netstandard2.0\AddressBook.Models.dll
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\bin\Debug\netstandard2.0\AddressBook.Models.pdb
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\obj\Debug\netstandard2.0\AddressBook.DataProvider.csprojAssemblyReference.cache
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\obj\Debug\netstandard2.0\AddressBook.DataProvider.AssemblyInfoInputs.cache
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\obj\Debug\netstandard2.0\AddressBook.DataProvider.AssemblyInfo.cs
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\obj\Debug\netstandard2.0\AddressBook.DataProvider.csproj.CopyComplete
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\obj\Debug\netstandard2.0\AddressBook.DataProvider.dll
+C:\Viren\AddressBookWebApp\AddressBook.DataProvider\obj\Debug\netstandard2.0\AddressBook.DataProvider.pdb

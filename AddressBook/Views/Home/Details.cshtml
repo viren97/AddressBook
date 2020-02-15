@@ -1,0 +1,35 @@
+﻿@model AddressBook.Models.User
+
+@{ 
+    ViewData["Title"] = "Address Book";
+    var data = ViewData["Message"];
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <div class="list-group">
+                <h5 class="list-group-item list-group-item-action active">Contact List</h5>
+
+                @foreach (var user in data.)
+                {
+                    <a href="/home/details/@user.Id" class="list-group-item list-group-item-action">
+                        <h6><b>@user.Firstname @user.Lastname</b></h6>
+                        <small>@user.Profession <br />@user.EmailId, @user.Contact<br />@user.Address</small>
+                    </a>
+                }
+            </div>
+        </div>
+        <div class="col-md">
+
+            @foreach (var user in data)
+            {   if(user.Id ==  id)
+                <a href="/home/details/@user.Id" class="list-group-item list-group-item-action">
+                    <h6><b>@user.Firstname @user.Lastname</b></h6>
+                    <small>@user.Profession <br />@user.EmailId, @user.Contact<br />@user.Address</small>
+                </a>
+            }
+        </div>
+    </div>
+</div>
